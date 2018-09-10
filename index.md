@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/anguyen97/anguyen97.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to My GitHub Pages
 
 ### Information
 
@@ -10,15 +6,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Name: Nguyen Trung Anh
 Mobile: 086.860.3396
 Email: anh.nguyentrung13@gmail.com
+Address: Dong Khe street, Dan Phuong, Dan Phuongg district, Hanoi Capital 
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Education
+
+Time | Work | Company
+-----|------|--------
+Sep, 2015 - now | Student | Hanoi University of Science and Technology
+Jan, 2018 - May, 2018 | Student | Zent Academy
+Apr, 15th 2018 - Aug, 15th 2018 | Intern | High Performance Center - HUST
 
 ### Experiences
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anguyen97/anguyen97.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 
